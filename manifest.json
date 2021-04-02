@@ -1,10 +1,14 @@
 {
-    "name": "arcgis-wab-widget-template",
+    "name": "Table",
+    "2D": true,
+    "3D": true,
     "platform": "HTML",
     "version": "1.0",
     "wabVersion": "2.19",
     "author": "YOUR NAME HERE <yourname@youraddress>",
     "description": "Just trying out the widget creation process.",
+    "copyright": "",
+    "license": "http://www.apache.org/licenses/LICENSE-2.0",
     "properties": {
         "inPanel": true,
         "hasLocale": false,
